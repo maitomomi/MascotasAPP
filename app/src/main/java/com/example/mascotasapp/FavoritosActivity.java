@@ -43,11 +43,11 @@ public class FavoritosActivity extends AppCompatActivity {
     }
     public void inicializarListaMascotas(){
         mascotas =new ArrayList<Mascota>();
-        mascotas.add(new Mascota("Kyoshi",R.mipmap.perrito,6));
-        mascotas.add(new Mascota("Arkady",R.mipmap.perrito,6));
-        mascotas.add(new Mascota("Katia", R.mipmap.perrito,5));
-        mascotas.add(new Mascota("Baba", R.mipmap.perrito,4));
-        mascotas.add(new Mascota("Gretel", R.mipmap.perrito,4));
+        mascotas.add(new Mascota("Patas",R.mipmap.gatito,6));
+        mascotas.add(new Mascota("Tomy",R.mipmap.perrito,6));
+        mascotas.add(new Mascota("Seis", R.mipmap.perrito,5));
+        mascotas.add(new Mascota("Tupac", R.mipmap.perrito,4));
+        mascotas.add(new Mascota("Nina", R.mipmap.perrito,4));
 
 
     }
